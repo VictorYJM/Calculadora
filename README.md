@@ -18,3 +18,13 @@ Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de
 - C#
 - Windows Forms
 - Algoritmos de Pilha
+
+## Testes
+
+  - **Entrada de valores inválidos**
+  ![Captura de tela 2024-09-21 213404](https://github.com/user-attachments/assets/f2add442-4fa4-4425-a14e-e130370c0f6d)
+  ![Captura de tela 2024-09-21 213643](https://github.com/user-attachments/assets/e01e032c-37a9-43cf-9c00-705a6e8f5e93)
+
+  - **Entrada de expressões matemáticas**
+  - 
+
