@@ -1,0 +1,10 @@
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\bin\Debug\apCalc.exe.config
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\bin\Debug\apCalc.exe
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\bin\Debug\apCalc.pdb
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.csproj.AssemblyReference.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.FrmCalculadora.resources
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.Properties.Resources.resources
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.csproj.GenerateResource.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.csproj.CoreCompileInputs.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.exe
+C:\Users\vymim\OneDrive\Área de Trabalho\Calc\23143_23158_Proj2ED\23143_23158_Proj2ED\apCalc\obj\Debug\apCalc.pdb
