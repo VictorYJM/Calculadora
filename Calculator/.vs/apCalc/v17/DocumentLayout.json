@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8CAE86E-75D8-4204-8DA2-6F03435E3527}|apCalc\\apCalc.csproj|c:\\users\\vymim\\onedrive\\\u00E1rea de trabalho\\calculator\\apcalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8CAE86E-75D8-4204-8DA2-6F03435E3527}|apCalc\\apCalc.csproj|solutionrelative:apcalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8CAE86E-75D8-4204-8DA2-6F03435E3527}|apCalc\\apCalc.csproj|C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\apcalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B8CAE86E-75D8-4204-8DA2-6F03435E3527}|apCalc\\apCalc.csproj|C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\Calculator\\apcalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8CAE86E-75D8-4204-8DA2-6F03435E3527}|apCalc\\apCalc.csproj|solutionrelative:apcalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,26 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\apCalc\\Form1.cs",
-              "RelativeDocumentMoniker": "apCalc\\Form1.cs",
-              "ToolTip": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\apCalc\\Form1.cs",
-              "RelativeToolTip": "apCalc\\Form1.cs",
-              "ViewState": "AQIAAOsBAAAAAAAAAADwv+8BAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T01:54:36.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\apCalc\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\Calculator\\apCalc\\Form1.cs",
               "RelativeDocumentMoniker": "apCalc\\Form1.cs",
-              "ToolTip": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calc\\23143_23158_Proj2ED\\23143_23158_Proj2ED\\apCalc\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\Calc\\23143_23158_Proj2ED\\23143_23158_Proj2ED\\apCalc\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\vymim\\OneDrive\\\u00C1rea de Trabalho\\Calculator\\Calculator\\apCalc\\Form1.cs [Design]",
+              "RelativeToolTip": "apCalc\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T01:53:54.438Z"
+              "WhenOpened": "2024-04-27T01:53:54.438Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

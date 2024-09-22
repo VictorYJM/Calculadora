@@ -1,13 +1,4 @@
-﻿/*
- Keven Richard da Rocha Barreiros - 23143
- Victor Yuji Mimura               - 23158
-
-https://learn.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=net-8.0
-https://stackoverflow.com/questions/2423377/what-is-the-invariant-culture
-https://stackoverflow.com/questions/54010316/nullable-array-and-why-do-we-need-them
-*/
-
-using System;
+﻿using System;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Forms;

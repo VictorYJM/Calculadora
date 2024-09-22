@@ -1,9 +1,4 @@
-﻿/*
- Keven Richard da Rocha Barreiros - 23143
- Victor Yuji Mimura               - 23158
-*/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 public interface IStack<Dados>
