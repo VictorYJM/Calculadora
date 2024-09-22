@@ -26,14 +26,18 @@ Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de
 <img src="https://github.com/user-attachments/assets/e01e032c-37a9-43cf-9c00-705a6e8f5e93" alt="Teste 2" width="300" style="display:inline-block;"/>
 
 ### Entrada de expressões matemáticas
-- **Expressão:** \(3 + 5 \times (2 - 8)^2\) = **183**
-  <img src="https://github.com/user-attachments/assets/9d22412c-0027-46fa-a0bd-2ed420556c0b" alt="Resultado 1" width="300" style="display:inline-block;"/>
+- **Expressão:** \(3 + 5 * (2 - 8)^2\) = **183**
+  
+  <img src="https://github.com/user-attachments/assets/9d22412c-0027-46fa-a0bd-2ed420556c0b" alt="Resultado 1" width="300" />
 
-- **Expressão:** \((7 + (3 \times 2)) / (5 - 1)\) = **3.25**
-  <img src="https://github.com/user-attachments/assets/c5afcc24-0e72-4a13-8714-15c3fabc3d99" alt="Resultado 2" width="300" style="display:inline-block;"/>
+- **Expressão:** \((7 + (3 * 2)) / (5 - 1)\) = **3.25**
+  
+  <img src="https://github.com/user-attachments/assets/c5afcc24-0e72-4a13-8714-15c3fabc3d99" alt="Resultado 2" width="300" />
 
-- **Expressão:** \(4 \times (6 + 2) / (1 - 5)^2\) = **2**
-  <img src="https://github.com/user-attachments/assets/74359e2d-af46-41b9-af5d-74cb0138d91c" alt="Resultado 3" width="300" style="display:inline-block;"/>
+- **Expressão:** \(4 * (6 + 2) / (1 - 5)^2\) = **2**
+  
+  <img src="https://github.com/user-attachments/assets/74359e2d-af46-41b9-af5d-74cb0138d91c" alt="Resultado 3" width="300" />
 
-- **Expressão:** \((10 + 2 \times 3)^{(1 / 2)}\) = **4**
-  <img src="https://github.com/user-attachments/assets/0112ec18-5374-487d-b062-f6669e82c689" alt="Resultado 4" width="300" style="display:inline-block;"/>
+- **Expressão:** \((10 + 2 * 3)^{(1 / 2)}\) = **4**
+  
+  <img src="https://github.com/user-attachments/assets/0112ec18-5374-487d-b062-f6669e82c689" alt="Resultado 4" width="300" />
