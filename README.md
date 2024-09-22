@@ -40,4 +40,4 @@ This project is a calculator developed in C# that allows the evaluation of compl
 
 - C#
 - Windows Forms
-- Stack Algorithms
+- Stack Algorithm
