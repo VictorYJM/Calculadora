@@ -1,6 +1,6 @@
 # Calculadora
 
-![calculadora](https://github.com/user-attachments/assets/34585b8a-6f29-4e82-82d1-ab00c230c4c6)
+![Captura de tela 2024-09-21 214559](https://github.com/user-attachments/assets/2b2cac91-8089-4b6a-8825-d3329ec0a054)
 
 ## Descrição
 
