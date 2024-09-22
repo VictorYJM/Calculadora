@@ -13,12 +13,6 @@ Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de
 - **Conversão de Notação**: Converte expressões de notação infixa para posfixa.
 - **Cálculo de Resultados**: Avalia expressões matemáticas complexas com suporte para operações básicas e potência.
 
-## Tecnologias Usadas
-
-- C#
-- Windows Forms
-- Algoritmos de Pilha
-
 ## Testes
 
 ### Entrada de valores inválidos
@@ -41,3 +35,9 @@ Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de
 - **Expressão:**   (10 + 2 × 3) ^ (1 / 2) = **4**
   
   <img src="https://github.com/user-attachments/assets/0112ec18-5374-487d-b062-f6669e82c689" alt="Resultado 4" width="300" />
+
+## Tecnologias Usadas
+
+- C#
+- Windows Forms
+- Algoritmos de Pilha
