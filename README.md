@@ -26,11 +26,11 @@ Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de
 <img src="https://github.com/user-attachments/assets/e01e032c-37a9-43cf-9c00-705a6e8f5e93" alt="Teste 2" width="300" style="display:inline-block;"/>
 
 ### Entrada de expressões matemáticas
-- **Expressão:** \(3 + 5 * (2 - 8)^2\) = **183**
+- **Expressão:**  3 + 5 * (2 − 8) ^ 2 = **183**
   
   <img src="https://github.com/user-attachments/assets/9d22412c-0027-46fa-a0bd-2ed420556c0b" alt="Resultado 1" width="300" />
 
-- **Expressão:** \((7 + (3 * 2)) / (5 - 1)\) = **3.25**
+- **Expressão:**  [7 + (3 × 2)] / (5 − 1) = **3.25**
   
   <img src="https://github.com/user-attachments/assets/c5afcc24-0e72-4a13-8714-15c3fabc3d99" alt="Resultado 2" width="300" />
 
