@@ -1,11 +1,10 @@
-# Calculadora Avançada
+# Calculadora
 
-![Calculadora](link![Uploading calculadora.png…]()
--para-sua-imagem.png)
+![calculadora](https://github.com/user-attachments/assets/34585b8a-6f29-4e82-82d1-ab00c230c4c6)
 
 ## Descrição
 
-Este projeto é uma calculadora avançada desenvolvida em C#, que permite a avaliação de expressões matemáticas complexas utilizando notação infixa e posfixa. A calculadora realiza a validação de entradas e garante que as operações matemáticas sejam executadas corretamente, respeitando a precedência e a associatividade dos operadores.
+Este projeto é uma calculadora desenvolvida em C#, que permite a avaliação de expressões matemáticas complexas utilizando notação infixa e posfixa. A calculadora realiza a validação de entradas e garante que as operações matemáticas sejam executadas corretamente, respeitando a precedência e a associatividade dos operadores.
 
 ## Funcionalidades
 
